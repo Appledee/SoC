@@ -21,6 +21,7 @@ are also introduced in those materials.
 Toshiba mep and Verisilicon IP and tool chain. 
 https://www.design-reuse.com/articles/10952/esl-enables-software-driven-socs.html
 
-
-
+4. Chris Terman's classic computer architecture class, MIT.
+https://computationstructures.org/
+Detailed lectures in processor, cache, memory, build process, parallel processing, and virtualization. 
 
