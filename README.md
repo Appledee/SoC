@@ -12,7 +12,10 @@ This book is very intuitive about understanding Linux operating systems concepts
 2. Modern System-on-Chip Design on Arm
 This book covers a great detail of hardware architecture of ARM Cortex-A SoC, and it's practical that I felt I could build a cool processor and memory system that utilizes those advanced cache, interconnect, and I/O's ideas.
 
-Some details of the ARM build process are also introduced in those materials. 
+Some details of the 
+a)ARM build process,and 
+b)emulators that facilitate the SoCs architecture and software design and IP vendor's model
+are also introduced in those materials. 
 
 3. ESL enabled software driven SoCs design methodology
 Toshiba mep and Verisilicon IP and tool chain. 
