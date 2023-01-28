@@ -25,3 +25,8 @@ https://www.design-reuse.com/articles/10952/esl-enables-software-driven-socs.htm
 https://computationstructures.org/
 Detailed lectures in processor, cache, memory, build process, parallel processing, and virtualization. 
 
+5. HPCA Georgia Tech. 
+https://omscs.gatech.edu/cs-6290-high-performance-computer-architecture-course-videos. 
+
+
+
